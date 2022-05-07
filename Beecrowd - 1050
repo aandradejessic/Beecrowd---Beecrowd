@@ -1,0 +1,20 @@
+ddd = (61, 71, 11, 21, 32, 19, 27, 31)
+input_ddd = int(input())
+if input_ddd not in ddd:
+   print('DDD nao cadastrado')
+if input_ddd == ddd[0]: 
+   print('Brasilia')
+if input_ddd == ddd[1]:
+   print('Salvador')
+if input_ddd == ddd [2]: 
+   print('Sao Paulo') 
+if input_ddd == ddd [3]:
+   print('Rio de Janeiro') 
+if input_ddd == ddd [4]: 
+   print('Juiz de Fora') 
+if input_ddd == ddd[5]: 
+   print('Campinas') 
+if input_ddd == ddd [6]: 
+   print('Vitoria') 
+if input_ddd == ddd[7]: 
+   print('Belo Horizonte')
